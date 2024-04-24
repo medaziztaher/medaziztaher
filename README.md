@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" with="200" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medaziztaher&label=Profile%20views&color=0e75b6&style=flat" alt="medaziztaher" /> </p>
 
-- 🔭 I’m currently Studing **Software Engineering**
+- 🔭 I’m currently Studying **Software Engineering**
 
 - 💬 Ask me about **MERN , Flutter**
 
