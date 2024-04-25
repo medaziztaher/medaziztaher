@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Taher Mohamed Aziz</h1>
 <h3 align="center">A passionate fullstack developer from Tunisia</h3>
-<img align="right" alt="Coding" with="200" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif">
+<img align="center" alt="Coding" with="400" src="https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/working.gif?raw=true">
 
 
 - 🔭 I’m currently Studying **Software Engineering**
